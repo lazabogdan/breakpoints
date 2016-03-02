@@ -1,0 +1,23 @@
+{
+  "name": "breakpoints",
+  "version": "1.0.0",
+  "description": "Fire custom events when the browser enters and/or exits breakpoints",
+  "main": "breakpoints.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazabogdan/breakpoints.git"
+  },
+  "keywords": [
+    "breakpoints",
+    "jquery"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazabogdan/breakpoints/issues"
+  },
+  "homepage": "https://github.com/lazabogdan/breakpoints#readme"
+}
